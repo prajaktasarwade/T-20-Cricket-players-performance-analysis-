@@ -19,9 +19,13 @@
 
 **Project Objective** 
 
+
 ●	Developed a comprehensive dashboard in Power BI to analyze the performance of the Top 11 Finale players in cricket.
+
 ●	 The dashboard provided detailed insights into each player's performance, including batting, bowling, and all-round abilities. 
+
 ●	By leveraging this report, the team was able to identify the optimal combination of 11 final players, comprising the best batsmen, bowlers, and all-rounders, for strategic team selection.
+
 
 **Task**
 
